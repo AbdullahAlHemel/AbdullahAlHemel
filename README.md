@@ -1,4 +1,4 @@
-![logo]([https://github.com/AbdullahAlHemel/AbdullahAlHemel/blob/main/ABdullah%20Al%20Hemel.png])
+![logo](https://github.com/AbdullahAlHemel/AbdullahAlHemel/blob/main/ABdullah%20Al%20Hemel.png)
 <h1 align="center">Hi 👋, I'm Abdullah Al Hemel</h1>
 <h3 align="center">A frontend developer from South Asia</h3>
 
