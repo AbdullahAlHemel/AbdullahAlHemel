@@ -20,6 +20,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahalhemel&show_icons=true&locale=en&layout=compact" alt="abdullahalhemel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalhemel&" alt="abdullahalhemel" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalhemel&&theme=radical" alt="abdullahalhemel" /></p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalhemel&theme=radical&hide_border=true&border_radius=5" alt="abdullahalheme" />
 
