@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalhemel&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalhemel" /> </p>
 
- <h3>- 🌱I’m currently studying in **University of Dhaka**</h3>
+ <h3>- 🌱I’m currently studying in University of Dhaka</h3>
 
 
 <h3 align="center">Connect with me:</h3>
