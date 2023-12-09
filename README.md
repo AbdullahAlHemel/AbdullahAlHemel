@@ -1,4 +1,4 @@
-![logo](https://github.com/AbdullahAlHemel/AbdullahAlHemel/blob/main/Grey%20minimalist%20business%20project%20presentation%20.pdf)
+![logo]([https://github.com/AbdullahAlHemel/AbdullahAlHemel/blob/main/ABdullah%20Al%20Hemel.png])
 <h1 align="center">Hi 👋, I'm Abdullah Al Hemel</h1>
 <h3 align="center">A frontend developer from South Asia</h3>
 
