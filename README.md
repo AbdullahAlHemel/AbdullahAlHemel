@@ -26,6 +26,6 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalhemel&&theme=ayu-light&hide_border=true&border_radius=5&card_width=400)]alt="abdullahalhemel" /></p>
 
 
-<h3><img src='https://github.com/AbdullahAlHemel/AbdullahAlHemel/commit/359db67b106490cd4d8dbf98123c8d4edfca29d0'/></h3>
+<h3><img src='https://github.com/AbdullahAlHemel/AbdullahAlHemel/blob/main/Grey%20minimalist%20business%20project%20presentation%20.gif'/></h3>
 
 
