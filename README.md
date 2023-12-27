@@ -1,6 +1,6 @@
 ![logo](https://github.com/AbdullahAlHemel/AbdullahAlHemel/blob/main/pn2.gif)
 <h1 align="center">Hi 👋, I'm Abdullah Al Hemel</h1>
-<h3 align="center">A frontend developer from South Asia</h3>
+<h3 align="center">A frontend developer from Bangladesh, South Asia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdullahalhemel&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalhemel" /> </p>
 
