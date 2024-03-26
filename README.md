@@ -25,5 +25,4 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalhemel&&theme=ayu-light&hide_border=true&border_radius=5&card_width=400)]alt="abdullahalhemel" /></p>
 
-
-<h5>http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahalhemel&theme=ayu-light</h5>
+<img  align="center" src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahalhemel&theme=default'>
