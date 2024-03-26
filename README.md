@@ -26,5 +26,4 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalhemel&&theme=ayu-light&hide_border=true&border_radius=5&card_width=400)]alt="abdullahalhemel" /></p>
 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
-
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahalhemel&theme=ayu-light
