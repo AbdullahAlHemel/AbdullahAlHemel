@@ -14,9 +14,13 @@
   </a>
 </p>
 
-[![](https://github-readme-streak-stats.herokuapp.com?user=AbdullahAlHemel)](https://git.io/streak-stats)
 
 <table align="center" style="border-collapse:collapse; border: 0;">
+   <tr>
+    <td colspan="2" align="center" style="padding: 10px;">
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AbdullahAlHemel&theme=dark" alt="GitHub Streak" /></a>
+    </td>
+  </tr>
   <tr>
     <td style="padding: 10px;"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdullahAlHemel&theme=apprentice&utcOffset=8" alt="Productive Time" /></td>
     <td style="padding: 10px;"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdullahAlHemel&theme=apprentice" alt="Repositories Per Language" /></td>
