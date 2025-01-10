@@ -10,7 +10,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,css,express,firebase,html,vite,tailwind,react,nodejs,mongodb,git,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=js,css,express,firebase,html,vite,tailwind,react,nodejs,mongodb,git,next" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 <table align="center" style="border-collapse:collapse; border: 0;">
    <tr>
     <td colspan="2" align="center" style="padding: 10px;">
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AbdullahAlHemel&theme=dark" alt="GitHub Streak" /></a>
+       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AbdullahAlHemel" alt="GitHub Streak" /></a>
     </td>
   </tr>
   <tr>
