@@ -72,9 +72,8 @@ I love working with **React**, **Next.js**, **Node.js**, and creating fast UI/UX
 
 ## 📬 **Connect With Me**
 <p align="center">
-  <a href="https://portfolio.example.com">🌐 Portfolio</a> •
-  <a href="https://linkedin.com/in/...">LinkedIn</a> •
-  <a href="https://github.com/AbdullahAlHemel">GitHub</a>
+  <a href="https://abdullah-al-hemel.web.app/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/abdullah-al-hemel-845583340/">LinkedIn</a> •
 </p>
 
 
