@@ -3,6 +3,7 @@
 
 ![logo](https://github.com/AbdullahAlHemel/AbdullahAlHemel/blob/main/Purple%20and%20White%20Startup%20Business%20Animated%20Presentation%20(2).gif)
 [![GitHub Streak](https://streak-stats.demolab.com?user=abdullahalhemel&theme=react&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abdullahalhemel&theme=highcontrast&hide_current_streak=true)](https://git.io/streak-stats)
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=abdullahalhemel&label=Profile%20views&color=1976d2&style=flat" alt="abdullahalhemel" /> 
 </p>
