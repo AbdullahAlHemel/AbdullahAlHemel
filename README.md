@@ -11,33 +11,32 @@
   </a>
 </p>
 
-<table align="center" style="border-collapse:collapse; border: 0;">
-  <tr>
-    <td colspan="2" align="center" style="padding: 10px;">
-       <a href="https://git.io/streak-stats">
-         <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdullahAlHemel&theme=blue-green" alt="GitHub Streak" />
-       </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdullahAlHemel&theme=blue" alt="Productive Time" />
-    </td>
-    <td style="padding: 10px;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdullahAlHemel&theme=blue" alt="Repositories Per Language" />
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdullahAlHemel&theme=blue" alt="Most Commit Language" />
-    </td>
-    <td style="padding: 10px;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdullahAlHemel&theme=blue" alt="Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" style="padding: 10px;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdullahAlHemel&theme=blue" alt="Profile Details" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="display:flex; flex-wrap: wrap; justify-content:center; gap: 20px;">
+
+  <div style="border: 2px solid #1e90ff; padding: 10px; border-radius: 10px;">
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdullahAlHemel&theme=blue-green" alt="GitHub Streak" />
+    </a>
+  </div>
+
+  <div style="border: 2px solid #1e90ff; padding: 10px; border-radius: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdullahAlHemel&theme=blue" alt="Productive Time" />
+  </div>
+
+  <div style="border: 2px solid #1e90ff; padding: 10px; border-radius: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdullahAlHemel&theme=blue" alt="Repositories Per Language" />
+  </div>
+
+  <div style="border: 2px solid #1e90ff; padding: 10px; border-radius: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdullahAlHemel&theme=blue" alt="Most Commit Language" />
+  </div>
+
+  <div style="border: 2px solid #1e90ff; padding: 10px; border-radius: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdullahAlHemel&theme=blue" alt="Stats" />
+  </div>
+
+  <div style="border: 2px solid #1e90ff; padding: 10px; border-radius: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdullahAlHemel&theme=blue" alt="Profile Details" />
+  </div>
+
+</div>
