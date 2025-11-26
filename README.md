@@ -1,4 +1,4 @@
-![logo](https://github.com/AbdullahAlHemel/AbdullahAlHemel/blob/main/pn2.gif)
+![logo](https://github.com/AbdullahAlHemel/AbdullahAlHemel/blob/main/Purple%20and%20White%20Startup%20Business%20Animated%20Presentation%20(1).gif)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdullahalhemel&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalhemel" /> </p>
 
