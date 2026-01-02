@@ -75,7 +75,12 @@ const Education = () => {
             <p className="mt-2 text-base sm:text-lg text-blue-200">
               QS World University Ranking: <span className="text-cyan-300 font-semibold">#554</span>
             </p>
-            <p className="mt-2 text-lg sm:text-xl text-blue-100 font-medium">2023 – Present</p>
+            
+            
+            <p className="mt-2 text-lg sm:text-xl text-blue-100 font-medium">BSc in Computer Science and Engineering (CSE)</p>
+            <p className="mt-2 text-base sm:text-lg text-blue-200">
+               July 2022 – June 2026(expected)
+            </p>
           </motion.div>
         </motion.div>
         </div>

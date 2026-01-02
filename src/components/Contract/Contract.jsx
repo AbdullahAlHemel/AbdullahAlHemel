@@ -56,7 +56,7 @@ const Contract = () => {
   };
 
   const socialLinks = [
-    { href: "https://www.linkedin.com/in/abdullah-al-hemel-845583340/", icon: <FaLinkedin />, color: "#0077b5" },
+    { href: "https://www.linkedin.com/in/abdullah-al-hemel-822150395/", icon: <FaLinkedin />, color: "#0077b5" },
     { href: "http://wa.me/+8801980076426", icon: <IoLogoWhatsapp />, color: "#128c7e" },
     { href: "https://www.facebook.com/profile.php?id=100024754232380", icon: <FaFacebookSquare />, color: "#316FF6" },
     { href: "https://github.com/AbdullahAlHemel", icon: <FaGithub />, color: "black" },
@@ -66,7 +66,7 @@ const Contract = () => {
   const contactInfo = [
     { icon: <FaPhone />, title: "Phone", content: "+880 19800 764 26" },
     { icon: <MdEmail />, title: "Email", content: "abdullahalhemel100@gmail.com" },
-    { icon: <FaMapMarkerAlt />, title: "Location", content: "Mjb. Hall, University of Dhaka, 1100, Dhaka" },
+    { icon: <FaMapMarkerAlt />, title: "Location", content: "Sharif Osman Hadi Hall, University of Dhaka, 1100, Dhaka" },
   ];
 
   return (

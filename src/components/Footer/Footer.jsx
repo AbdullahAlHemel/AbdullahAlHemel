@@ -1,6 +1,6 @@
 import React from "react";
 import { FaHome, FaGithub, FaLinkedin } from "react-icons/fa";
-import { PiReadCvLogoFill } from "react-icons/pi";
+import { PiArrowUpBold } from "react-icons/pi";
 import { Link } from "react-router-dom";
 import GradientText from '../../Home/Home/Banner/GradientText'
 
@@ -21,7 +21,7 @@ const Footer = () => {
         </Link>
 
         <a
-          href="https://www.linkedin.com/in/abdullah-al-hemel-845583340/"
+          href="https://www.linkedin.com/in/abdullah-al-hemel-822150395/"
           target="_blank"
           rel="noreferrer"
           className="flex flex-col items-center group transition transform hover:scale-110"
@@ -34,14 +34,14 @@ const Footer = () => {
 
 
         <a
-          href="https://drive.google.com/file/d/1ZqeMKUnldoDOmP_pqEoxybwi9FyqW1Mq/view"
+          href="#"
           target="_blank"
           rel="noreferrer"
           className="flex flex-col items-center group transition transform hover:scale-110"
         >
         <GradientText colors={["#dbe8ff", "#aecdff", "#ff4d4d", "#dbe8ff", "#aecdff"]} animationSpeed={6} className="custom-class">
-          <PiReadCvLogoFill className="text-3xl text-violet-400 group-hover:text-violet-300" />
-          <span className="text-sm mt-1 tracking-wider">CV</span>
+          <PiArrowUpBold className="text-3xl text-violet-400 group-hover:text-violet-300" />
+          <span className="text-sm mt-1 tracking-wider">Top</span>
         </GradientText>
         </a>
       </div>
