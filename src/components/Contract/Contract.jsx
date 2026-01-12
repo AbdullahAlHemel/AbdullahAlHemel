@@ -54,11 +54,11 @@ const Contract = () => {
       .then(() => { e.target.reset(); toast.success("✔️ Message Sent Successfully"); })
       .catch((error) => { toast.error("❌ Something went wrong!"); console.error(error.text); });
   };
-
+// https://www.facebook.com/profile.php?id=100024754232380
   const socialLinks = [
     { href: "https://www.linkedin.com/in/abdullah-al-hemel-822150395/", icon: <FaLinkedin />, color: "#0077b5" },
     { href: "http://wa.me/+8801980076426", icon: <IoLogoWhatsapp />, color: "#128c7e" },
-    { href: "https://www.facebook.com/profile.php?id=100024754232380", icon: <FaFacebookSquare />, color: "#316FF6" },
+    { href: "#", icon: <FaFacebookSquare />, color: "#316FF6" },
     { href: "https://github.com/AbdullahAlHemel", icon: <FaGithub />, color: "black" },
     { href: "#", icon: <FaTelegram />, color: "#0088cc" },
   ];
