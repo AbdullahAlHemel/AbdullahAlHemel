@@ -8,6 +8,7 @@ import Navbar from '../Main/Navbar'
 import Footer from '../components/Footer/Footer'
 import Round from '../Home/Round/Round';
 import Number from '../components/motion/Number';
+import Experience from '../components/Experience/Experience'
 const Main = () => {
     return (
         <div className="relative nunito-sans">
@@ -29,9 +30,16 @@ const Main = () => {
             <section id="projects">
                 <Projects />
             </section>
+            <Number/>
+            
+
+            {/* Experience Section */}
+            <section id="experience">
+                <Experience />
+            </section>
 
               
-             <Number/>
+             
             {/* Education Section */}
             <section id="education">
                 <Education />
