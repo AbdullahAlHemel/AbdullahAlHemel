@@ -9,11 +9,13 @@ import {
   SiFirebase, 
   SiGit 
 } from "react-icons/si";
+import { SiTypescript } from "react-icons/si";
 
 const skills = [
   // Frontend
   { name: "React", icon: <SiReact className="text-blue-500" /> },
   { name: "Next.js", icon: <SiNextdotjs className="text-black" /> },
+  { name: "TypeScript", icon: <SiTypescript className="text-blue-400" /> },
   { name: "Tailwind CSS", icon: <SiTailwindcss className="text-teal-400" /> },
 
   // Backend
