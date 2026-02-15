@@ -51,7 +51,7 @@ const Footer = () => {
 
       {/* Copyright */}
       <p className="text-center text-xs md:text-sm text-gray-300 tracking-wide">
-        © {new Date().getFullYear()} — All Rights Reserved |{" "}
+        <a href="https://docs.google.com/spreadsheets/d/18xAScogqUYLznyUo0uYXp5itnEXHqQSW59eXIhXCua8/edit?usp=sharing">© </a>{new Date().getFullYear()} — All Rights Reserved |{" "}
         <span className="text-pink-400 font-semibold">Abdullah Al Hemel</span>
       </p>
     </footer>
